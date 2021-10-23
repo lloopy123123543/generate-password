@@ -27,6 +27,7 @@ def random_symbols():
         random.randint(0, len(ARRAY_SYMBOLS) - 1)
     ]
 
+print(f'Bерсия пограммы: v0.0.1')
 
 print(f'Количество доступных символов: {len(ARRAY_SYMBOLS)}')
 print(f'Доступные символы: {ARRAY_SYMBOLS}')
