@@ -31,5 +31,3 @@ git tag v0.0.0
 ```bash
 git push origin --tags
 ```
-
-соз
